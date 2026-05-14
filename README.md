@@ -30,10 +30,7 @@ A passionate cloud enthusiast with a strong focus on Microsoft Azure. With sever
 
 ### Cloud Platform:
 
-- Microsoft Azure
+- Microsoft Azure|Google Cloud
 ---
-
-- 🔭 I’m currently working on Chelsea football players Serverless API project.
-- 🤔 I’m looking for help with Mircosoft Azure DevOps learning path.
 
 🏗
