@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://jamie_pryce@hotmail.com">Email</a> 📩
   <a href="https://www.linkedin.com/in/jamie-pryce/">LinkedIn</a> 🔗
-  <a href="https://github.com/Pusha876">GitHub</a>
+  <a href="https://jamiepryce.com">Web_Portfolio</a>
 </p>
 
 ---
