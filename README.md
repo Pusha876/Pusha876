@@ -1,5 +1,5 @@
 ## Jamie B. Pryce
-## Aspiring DevOps Engineer🚀
+## DevOps | Platform Engineer🚀
 
 <p align="center">
   <a href="https://jamie_pryce@hotmail.com">Email</a> 📩
